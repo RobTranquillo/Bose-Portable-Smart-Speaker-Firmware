@@ -7,7 +7,7 @@ Please contact me if you have official download links to old firmware versions!
 My last installed firmware is:
 20.011.1633 Jenkins@auto-nucleus-bdsp-pod-adaws-xrj6x
 downloaded via:  https://worldwide.bose.com/support/PHSFW wich redirects to https://ota.cdn.bose.io/taylor/product_update.zip
-I get this download from my GERMAN ([www.bose.de](https://www.bose.de/de_de/myaccount/dashboard.html))
+I get this download from my GERMAN ([www.bose.de](https://www.bose.de/de_de/myaccount/dashboard.html)) product download page.
 
 It contains among others:
 Bose GoogleVoiceAssistant Package version 3.1.11+gfb467d6
